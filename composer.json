@@ -1,0 +1,22 @@
+{
+  "name": "dev-head/default-project",
+  "type": "library",
+  "description": "Default Project",
+  "authors": [
+    {
+      "name": "Dev Head",
+      "email": "me@example.com"
+    }
+  ],
+  "config": {
+    "optimize-autoloader": true
+  },
+  "keywords" : ["demo api consumer"],
+  "homepage": "https://github.com/dev-head/default-project",
+  "license" : "MIT",
+
+  "require": {
+  }
+
+
+}
