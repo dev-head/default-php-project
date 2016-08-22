@@ -24,9 +24,7 @@
       "path_host" : ".",
       "path_remote" : "/srv/default-php-project",
       "provision_scripts": ["provision.sh"]
-
     }
-
   ]
 
 }
